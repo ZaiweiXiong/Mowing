@@ -1,0 +1,64 @@
+.table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    /*border-collapse: collapse;*/
+    border: 1px solid black;
+   
+    margin:0 auto;
+ }
+.th {
+  background-color: #4CAF50;
+  color: white;
+ }
+.td {
+  border-bottom: 1px solid #ddd;
+}
+
+.input{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+   
+    border: none;
+    border-bottom: 2px solid #4CAF50;
+    
+ }
+ .search {
+
+    display: inline-block;
+   
+ }
+
+ #mytable{
+  width: 50%;
+  position: relative;
+  left: 180px;
+  
+
+ }
+ #mysearch{
+  width: 60%;
+  position: relative;
+  left: 80px;
+  border: 1px solid green
+ }
+ #myActions{
+  width: 70%;
+  position: relative;
+  left: 180px;
+ }
+ #myschedule{
+  width: 70%;
+  position: relative;
+  left: 80px;
+ }
+ #table1{
+  width: 70%;
+  position: relative;
+  left: 5px;
+ }
+ #sub{
+  width: 20%;
+  position: relative;
+  left: 180px;
+ }
+ 
